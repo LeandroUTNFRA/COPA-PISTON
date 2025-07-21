@@ -30,13 +30,13 @@
 > Podés agregar imágenes en la misma carpeta del repo (`IMG/`) y enlazarlas así:
 
 ### 🎬 Pantalla de inicio
-![Menú principal](../../IMG/menu.png)
+![Menú principal](https://hnlzagyadmtdaztbcwzd.supabase.co/storage/v1/object/public/comidas//menu.png)
 
 ### 🏁 Jugabilidad en acción
-![Juego en curso](IMG/juego.png)
+![Juego en curso](https://hnlzagyadmtdaztbcwzd.supabase.co/storage/v1/object/public/comidas//Juego.png)
 
 ### 🏆 Pantalla final
-![Pantalla final](IMG/final.jpeg)
+![Pantalla final](https://hnlzagyadmtdaztbcwzd.supabase.co/storage/v1/object/public/comidas//final.jpeg)
 
 ---
 
