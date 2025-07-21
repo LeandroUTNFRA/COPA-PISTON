@@ -43,7 +43,7 @@ def esperar_tecla():
 
 def mostrar_ranking_y_esperar(pantalla):
     pantalla.fill((0, 0, 0))
-    imagen_final=pygame.image.load("D:\\archivos\\desafio 05\\IMG\\WhatsApp Image 2023-06-20 at 11.41.55.jpeg")
+    imagen_final=pygame.image.load("../IMG/final.jpeg")
     imagen_final = pygame.transform.scale(imagen_final, (1200,600))
     pantalla.blit(imagen_final, (0, 0))
     mostrar_ranking(pantalla)
